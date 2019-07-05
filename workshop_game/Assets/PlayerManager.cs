@@ -6,7 +6,7 @@ public class PlayerManager : MonoBehaviour
 {
     private Animator animator;
     private float speed = 0.035f;
-    private int life = 10;
+    private int life = 100;
     private int money = 100;
     public Text lifeText;
     public Text moneyText;

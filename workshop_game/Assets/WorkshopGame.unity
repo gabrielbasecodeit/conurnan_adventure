@@ -476,7 +476,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1000013234968400, guid: adad37d9c6daf7b4e9a360efb24da5bf, type: 3}
       propertyPath: m_Name
-      value: Chorro1 (1)
+      value: Chorro2
       objectReference: {fileID: 0}
     - target: {fileID: 1000013234968400, guid: adad37d9c6daf7b4e9a360efb24da5bf, type: 3}
       propertyPath: m_TagString
@@ -11848,7 +11848,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 152314, guid: 5a5cb65f61cbdbe49af608fd4f52667e, type: 3}
       propertyPath: m_Name
-      value: sofa (1)
+      value: sofa1
       objectReference: {fileID: 0}
     - target: {fileID: 419460, guid: 5a5cb65f61cbdbe49af608fd4f52667e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11970,6 +11970,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2784999117155814471, guid: 1860cb02c14d3d24d85cff567ba4e9a4,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.46836308
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1860cb02c14d3d24d85cff567ba4e9a4, type: 3}

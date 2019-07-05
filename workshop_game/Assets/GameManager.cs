@@ -39,7 +39,7 @@ public class GameManager : MonoBehaviour
             scrollingBackground.Stop();
 
             //play audio boca
-
+            SceneManager.LoadScene("WinScene");
         }
 
         if(gameOver)
